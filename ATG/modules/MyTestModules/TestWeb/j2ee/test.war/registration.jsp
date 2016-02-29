@@ -26,7 +26,7 @@
 				<td>Email</td><td><dsp:input bean="ProfileFormHandler.value.email"></dsp:input></td>
 			</tr>	
 			<tr>
-				<td>Login Name</td><td><dsp:input bean="ProfileFormHandler.value.login"></dsp:input></td>
+				<td>User Name</td><td><dsp:input bean="ProfileFormHandler.value.login"></dsp:input></td>
 			</tr>		
 			<tr>
 				<td>Password</td><td><dsp:input type="password" bean="ProfileFormHandler.value.password"></dsp:input></td>
